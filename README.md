@@ -36,9 +36,10 @@ objeto  ** Itamony ** {
 <a href="https://github.com/Grupreet">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItamonyPadilha&show_icons=true&theme=dracula&line_height=27" alt=" **SEU NOME** github stats"/>
 </a>
-![Snake animation](https://github.com/ItamonyPadilha/ItamonyPadilha/blob/output/github-contribution-grid-snake.svg)
-
-
+<div>
+![Snake animation](https://github.com/ItamonyPadilha/ItamonyPadilha/blob/main/github-contribution-grid-snake.svg)
+</div>
+       
 [ discord ]: Ita#0639
 [ youtube ]: https://www.youtube.com/channel/UCB9YLacbRl3H3pzrcBWCLhg
 [ instagram ]: https://www.instagram.com/itamonypadilha/
