@@ -37,7 +37,7 @@ objeto  ** Itamony ** {
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItamonyPadilha&show_icons=true&theme=dracula&line_height=27" alt=" **SEU NOME** github stats"/>
 </a>
 <div>
-![Snake animation](https://github.com/ItamonyPadilha/ItamonyPadilha/blob/main/github-contribution-grid-snake.svg)
+##![Snake animation](https://github.com/ItamonyPadilha/ItamonyPadilha/blob/main/github-contribution-grid-snake.svg)
 </div>
        
 [ discord ]: Ita#0639
